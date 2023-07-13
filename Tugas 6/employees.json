@@ -1,0 +1,42 @@
+[
+    {
+    "name": "Adam Moore",
+    "gender": "male",
+    "age": 39,
+    "salary": 15000000,
+    "position": "manager",
+    "work_time": 5
+    },
+    {
+    "name": "Ellis McCoy",
+    "gender": "female",
+    "age": 31,
+    "salary": 10000000,
+    "position": "supervisor",
+    "work_time": 8
+    },
+    {
+    "name": "Mary Jane",
+    "gender": "female",
+    "age": 24,
+    "salary": 25000,
+    "position": "admin",
+    "work_time": 8
+    },
+    {
+    "name": "Alex Murphy",
+    "gender": "male",
+    "age": 35,
+    "salary": 10000,
+    "position": "developer",
+    "work_time": 12
+    },
+    {
+    "name": "Norman Bourne",
+    "gender": "male",
+    "age": 18,
+    "salary": 5000,
+    "position": "developer",
+    "work_time": 7.5
+    }
+    ]

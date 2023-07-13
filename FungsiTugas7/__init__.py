@@ -1,0 +1,1 @@
+from .hitung import Genap, MinforNum, MaxforNum, JilNap, Total, jumAngkasama
